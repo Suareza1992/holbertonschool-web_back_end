@@ -7,6 +7,6 @@ of the float.
 """
 
 
-def to_str(n: float) -> str;
+def to_str(n: float) -> str:
     """ String representation of the float."""
     return str(n)
